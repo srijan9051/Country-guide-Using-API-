@@ -1,0 +1,30 @@
+.search-wrapper{
+    display: block;
+}
+.search-wrapper button {
+    font-size: 0.5em;
+    background-color: #3d64e6;
+    color: #ffffff;
+    padding: 1px 10px;
+    border: none;
+    border-radius: 1.5em;
+    cursor: pointer;
+}
+.search-wrapper input {
+    font-size: 1em;
+    padding: 0 0.62em;
+    border: none;
+    border-bottom: 2px solid black;
+    outline: none;
+    color: #222a43;
+}
+.search-wrapper button {
+    font-size: 0.5em;
+    background-color: #3d64e6;
+    color: #ffffff;
+    padding: 3px 10px;
+    margin-left: 4rem;
+    border: none;
+    border-radius: 1.5em;
+    cursor: pointer;
+}

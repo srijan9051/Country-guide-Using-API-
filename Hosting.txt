@@ -1,0 +1,7 @@
+Netlify Hosting:
+
+https://countryguider.netlify.app/
+
+Github Hosting:
+
+https://github.com/srijan9051/Country-guide-Using-API-.git
